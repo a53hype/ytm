@@ -1,4 +1,4 @@
-# ytm - musixmatch + lyricfind!
+# ytm
 Line-synced YouTube Music Lyrics to desktop!
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ea5f4311-5d01-478b-a95e-7e8bc5814031" />
 YouTube Music
